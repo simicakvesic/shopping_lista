@@ -1,0 +1,219 @@
+body {
+
+    font-size: 14px;
+    font-family: 'Buenard';
+    color:white;
+    background-color:lightcoral;
+    
+	
+	
+}
+
+/*Start*/
+.images-start{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.img-header {
+    height: 168px;
+	    margin-top: 7em;
+}
+@media (min-width: 576px){
+    .background-full-screen{
+        background-image: url(../images/.jpg);
+        background-repeat: no-repeat;
+
+
+    }
+
+}
+.left{
+    background-color: white;
+    padding: 3px;
+}
+.img-all-items{
+	    height: 22px 
+}
+span{
+	padding-left: 9px;
+    font-size: 16px;
+}
+.share{
+	 height: 41px;
+    float: right;
+    margin-top: 17px;
+    margin-right: 3px;
+}
+.footer-content-homepage{
+	color: black;
+	font-size: 21px;
+    font-weight: bold;
+}
+
+footer.homepage{
+	 position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+
+    text-align: center;
+    opacity: 0.8;
+    color: white;
+    background-color: white;	
+}
+.btn-success {
+    color: black;
+      background-color: transparent;
+    border-color: orangered;
+    /* margin-top: 2em; */
+    font-size: 20px;
+    font-weight: bold;
+    float: right;
+}
+.selected {
+    background-color: brown;
+    color:white;
+    border-radius: 1px solid brown;
+}
+
+.header-content{
+    font-size: 20px;
+    padding-bottom: 9px;
+}
+.fa.fa-long-arrow-left{
+    font-size: 22px;
+    padding-top: 15px;
+    padding-left: 12px;
+}
+.first-header{
+    background-image: url('../images/create-new-folder.png');
+    height: 46px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+header{
+    background-color: blue;
+    color: white;
+    opacity: 0.8;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: rosybrown !important;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    color: white !important;
+}
+footer{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+
+    text-align: center;
+    opacity: 0.8;
+    color: black;
+    background-color: blue;
+}
+.footer-content{
+    color: white;
+    float: right;
+}
+/*Three page*/
+.three-part {
+    background-color: blue;
+    color: white;
+    opacity: 0.8;
+    /*background-image: url('../images/1498500358_finance-04.png');*/
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-basket{
+    height: 40px;
+    margin-right: 5px;
+    float: right;
+    margin-top: 10px;
+}
+.btn-default {
+    color: white;
+
+    border-color: #ccc;
+    background-color: green !important;
+    padding: 7px;
+	float: right;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    float: left;
+}
+/*four*/
+.four-view-header{
+    background-color: blue;
+    color: white;
+    opacity: 0.8;
+}
+.img-fruits{
+    height: 40px;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0px 0px 0px 0px !important;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.list-group {
+    padding-left: 0;
+   margin-bottom: 0px !important; 
+}
+.accordion,#first-accordion {
+    background-color: #87604d !important;
+    color: gray;
+    cursor: pointer;
+    padding: 0px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    transition: 0.8s;
+    font-weight: 700;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: lightblue;
+}
+.panel {
+
+    background-color: orange!important;
+    border-radius: 1px solid black;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    color: black !important;
+}
+.nog-txt{
+
+    padding-top: 10px;
+    color: #FFFFFF;
+    padding-left: 12px;
+}
+.football{
+    float: left;
+}
+.img-fru-veg{
+    height: 39px;
+    float: left;
+    margin-left: 12px;
+}
+
+
+
+
+
